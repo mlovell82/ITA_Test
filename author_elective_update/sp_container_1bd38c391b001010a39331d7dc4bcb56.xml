@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>ITA - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="ita">36c3843d1b001010a39331d7dc4bcb1f</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 17:55:52</sys_created_on>
+        <sys_id>1bd38c391b001010a39331d7dc4bcb56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITA - Container 1</sys_name>
+        <sys_package display_value="ITA" source="x_227743_ita">392b33651b001010a39331d7dc4bcbbd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITA">392b33651b001010a39331d7dc4bcbbd</sys_scope>
+        <sys_update_name>sp_container_1bd38c391b001010a39331d7dc4bcb56</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 17:55:52</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITA">392b33651b001010a39331d7dc4bcbbd</application>
+        <file_path/>
+        <instance_id>d7b6cd63dbcfff849df22f17d4961973</instance_id>
+        <instance_name>dev91319</instance_name>
+        <name>sp_container_1bd38c391b001010a39331d7dc4bcb56</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>ITA - Container 1</name><order>1</order><sp_page display_value="ita">36c3843d1b001010a39331d7dc4bcb1f</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 17:55:52</sys_created_on><sys_id>1bd38c391b001010a39331d7dc4bcb56</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ITA - Container 1</sys_name><sys_package display_value="ITA" source="x_227743_ita">392b33651b001010a39331d7dc4bcbbd</sys_package><sys_policy/><sys_scope display_value="ITA">392b33651b001010a39331d7dc4bcbbd</sys_scope><sys_update_name>sp_container_1bd38c391b001010a39331d7dc4bcb56</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 17:55:52</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-757969325</payload_hash>
+        <record_name>ITA - Container 1</record_name>
+        <reverted_from/>
+        <source>b12bf3291b001010a39331d7dc4bcbc3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 17:55:52</sys_created_on>
+        <sys_id>53d38c391b001010a39331d7dc4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715aef1dc90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 17:55:52</sys_updated_on>
+        <type>Container</type>
+        <update_guid>9bd38c3933001010a8f7ead08b23bb57</update_guid>
+        <update_guid_history>9bd38c3933001010a8f7ead08b23bb57:-757969325</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ITA - Container 1">403440311b401010a39331d7dc4bcba2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 17:57:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>1781494c7c5a45e68a55d51608076339</sys_id>
+        <sys_metadata>1bd38c391b001010a39331d7dc4bcb56</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITA - Container 1</sys_name>
+        <sys_package display_value="ITA" source="x_227743_ita">392b33651b001010a39331d7dc4bcbbd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITA">392b33651b001010a39331d7dc4bcbbd</sys_scope>
+        <sys_scope_delete display_value="">0e65073fd057498eacf7024842221df1</sys_scope_delete>
+        <sys_update_name>sp_container_1bd38c391b001010a39331d7dc4bcb56</sys_update_name>
+        <sys_update_version display_value="sp_container_1bd38c391b001010a39331d7dc4bcb56">53d38c391b001010a39331d7dc4bcb58</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 17:57:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
